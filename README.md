@@ -1,8 +1,7 @@
-# Monopoly
+# Monopoly Strategy Optimizer 
 
-***updates underway!*** 
+updates underway for more accurate calculations. 
 
+the pdf includes everything you need to know! 
 
-In the meantime, feel free to read through the presentation I presented! 
-
-Improved version coming soon!
+-saksham
